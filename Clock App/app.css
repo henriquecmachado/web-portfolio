@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+
+
+
+body {
+    font-family: Helvetica;
+    background-color: aliceblue;
+}
+
+#today {
+    position: absolute;
+    margin-top: 15rem;
+    margin-left: 27rem;
+    color: #a4161a;
+    font-weight: 800;
+}
+
+#day {
+    position: absolute;
+    margin-left: 37rem;
+    margin-top: 15.5rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#current {
+    position: absolute;
+    margin-left: 27rem;
+    margin-top: 20rem;
+    color: #a4161a;
+    font-weight: 800;
+}
+
+#hours {
+    position: absolute;
+    margin-top: 20.7rem;
+    margin-left: 45rem;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+#clock {
+    position: absolute;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    font-size: 5rem;
+}
+
+#img {
+    position: absolute;
+    height: 5rem;
+    margin-left: 53rem;
+    margin-top: 3rem;
+}

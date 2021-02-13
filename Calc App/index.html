@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="app.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="first-number" id="fa-input-first-number" >
+        <p>1st Number: <input id="first-number"  placeholder="Type a Number"></p>
+    </div>
+
+    <div class="second-number" id="fa-input-second-number">
+        <p>2st Number: <input id="second-number" type="
+            text" placeholder="Type a Number"></p>
+    </div>
+
+    <div class="buttons">
+        <button onclick="multiplyCalc()" id="multiply">Multiply</button>
+        <button onclick="divideCalc()" id="divide">Divide</button>
+        <button id="add" onclick="addCalc()">Add</button>
+        <button id="subtract" onclick="subtractCalc()">Subtract</button>
+
+        <button id="clear" onclick="clearFields()">Clear</button>
+    </div>
+    <div class="result">
+       <h1 id="result-text"> The result is:</h1> <span id="result"></span>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
