@@ -2,7 +2,7 @@
 
 <p>😍 Hello! Coming back here on Github once again to show my progress in HTML, CSS and Javascript. 
 
-I am very happy because I can already apply simple concepts, but that are very useful for building basic applications and that over time can evolve to more complex applications and features. </p>
+I'm very happy because I can already apply simple concepts, but that are very useful for building basic applications and that over time can evolve to more complex applications and features. </p>
 
 <h2>For what is this Repository?</h2>
 
