@@ -12,7 +12,7 @@ I've built some applications to train and apply everything I've learned in HTML,
 
 You won't need to download or install any packages, only use HTML, CSS and Vanilla Javascript. </p>
 
-<h2>What do you have in this Repository?</h2>
+<h2>What do we have in this Repository?</h2>
 
  * <input type="checkbox" checked> 🕓 Clock Application: Simple app to show current day and current time. Demo Link Here - CodePen: [Clock App](asd)
 
