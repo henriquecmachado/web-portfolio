@@ -1,23 +1,15 @@
-<h1>🚀 Portfolio with 10 simple Projects (HTML, CSS and JS)</h1>
+# 🔐 Login Validation Form 
 
-<p>😍 Hello! Coming back here on Github once again to show my progress in HTML, CSS and Javascript. 
+Hello guys!
 
-I'm very happy because I can already apply simple concepts, but that are very useful for building basic applications and that over time can evolve to more complex applications and features. </p>
+Today, I have some new features in this project. When I started Learning Web Development, the only thing that I can do is create some 
+static pages, but now, I can increment some tools and messages with JavaScript. 
 
-<h2>For what is this Repository?</h2>
+## What's about? 
+This is simple, but I learned a lot! Is a simple login form validation with this three topics: 
 
-<p> 
+- [X] The user can't access the system without an email (empty e-mail)
+- [X] The user can't access without password
+- [X] The user can't access if the password is equal a 'password'
 
-I've built some applications to train and apply everything I've learned in HTML, CSS and Javascript. If you want to learn or improve each of them, feel free to make a FORK. 
-
-You won't need to download or install any packages, only use HTML, CSS and Vanilla Javascript. </p>
-
-<h2>What do we have in this Repository?</h2>
-
- * <input type="checkbox" checked> 🕓 Clock Application: Simple app to show current day and current time. Demo Link Here - CodePen: [Clock App](asd)
-
-  * <input type="checkbox" checked> ➕ Calculator with Vanilla Javascript: A calculator to use add, subtract, multiply, divide and clear the fields with a button. Demo Link Here - CodePen: [Calculator App](https://codepen.io/hcastromachado/pen/wvozzNo)
-
- * <input type="checkbox" checked> 🔐 Login Form Validation: A Login that check if the user inserted an correct email/password (See the README.md inside the archive). Demo Link Here - CodePen: [Login Form Validation](https://codepen.io/hcastromachado/pen/GRNbWEM)
-
-Loading More Projects... 👽🚀
+Thank you so much! 
