@@ -18,4 +18,6 @@ You won't need to download or install any packages, only use HTML, CSS and Vanil
 
   * <input type="checkbox" checked> ➕ Calculator with Vanilla Javascript: A calculator to use add, subtract, multiply, divide and clear the fields with a button. Demo Link Here - CodePen: [Calculator App](https://codepen.io/hcastromachado/pen/wvozzNo)
 
-Loading More Projects... 
+ * <input type="checkbox" checked> 🔐 Login Form Validation: A Login that check if the user inserted an correct email/password (See the README.md inside the archive). Demo Link Here - CodePen: [Login Form Validation](https://codepen.io/hcastromachado/pen/GRNbWEM)
+
+Loading More Projects... 👽🚀
